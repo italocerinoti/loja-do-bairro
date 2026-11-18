@@ -1,2 +1,9 @@
-# loja-do-bairro
-Site da Loja do Bairro: loja virtual simples com página inicial, catálogo, carrinho e contato. Atividade de Kanban e Scrum no GitHub Projects.
+# Loja do Bairro - Kanban
+
+Quadro Kanban para organizar o desenvolvimento do site da Loja do Bairro.
+
+## Colunas
+Backlog, Ready, In progress, In review e Done.
+
+## Regra de WIP
+O limite é de 3 itens simultâneos na coluna In progress. Um novo item só pode entrar em In progress quando outro sair, seja para In review ou para Done.
